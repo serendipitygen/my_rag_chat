@@ -1,0 +1,7 @@
+{
+  "model": "claude-3-5-sonnet-20241022",
+  "max_tokens": 8192,
+  "temperature": 0,
+  "tools": ["computer", "str_replace", "bash"],
+  "project_memory": "CLAUDE.md"
+}

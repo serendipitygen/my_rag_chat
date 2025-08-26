@@ -1,0 +1,45 @@
+# 기본 패키지
+python-dotenv
+pyyaml
+tqdm
+pytest
+
+# 벡터 DB
+faiss-cpu==1.10.0
+langchain==0.3.17
+langchain-community==0.3.16
+langchain-core==0.3.33
+langchain-huggingface==0.1.2
+langchain-text-splitters==0.3.5
+
+# 임베딩 모델
+huggingface-hub>=0.22.0
+transformers==4.48.2
+torch==2.6.0
+torchaudio==2.6.0
+torchvision==0.21.0
+sentence-transformers==3.4.1
+
+# 문서 처리
+pypdf
+python-docx
+markdown
+beautifulsoup4
+pandas
+
+# UI - 대시보드
+dash==3.0.2
+dash-bootstrap-components
+dash-core-components
+dash-html-components
+
+# UI - 챗봇
+chainlit==1.0.2
+
+# LLM 연결
+openai
+aiohttp
+requests
+
+# 로깅 및 진단
+loguru
