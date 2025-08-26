@@ -2,3 +2,9 @@ embedding_model/
 __pycache__/
 .windsurfrules
 logs/
+
+# Large video files
+docs/*.mp4
+docs/*.avi
+docs/*.mov
+docs/*.mkv
