@@ -9,3 +9,6 @@ docs/*.avi
 docs/*.mov
 docs/*.mkv
 docs/*.vrew
+
+# PowerPoint files - sensitive documents
+docs/MyRagChat.pptx
